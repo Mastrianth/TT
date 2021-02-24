@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/tt/static/css/main.ef086b1f.chunk.css",
+    "main.js": "/tt/static/js/main.1c4ab176.chunk.js",
+    "main.js.map": "/tt/static/js/main.1c4ab176.chunk.js.map",
+    "runtime-main.js": "/tt/static/js/runtime-main.18c2270b.js",
+    "runtime-main.js.map": "/tt/static/js/runtime-main.18c2270b.js.map",
+    "static/js/2.7d69b6c7.chunk.js": "/tt/static/js/2.7d69b6c7.chunk.js",
+    "static/js/2.7d69b6c7.chunk.js.map": "/tt/static/js/2.7d69b6c7.chunk.js.map",
+    "index.html": "/tt/index.html",
+    "precache-manifest.58afa0c7ad99413af2ad92934210afe8.js": "/tt/precache-manifest.58afa0c7ad99413af2ad92934210afe8.js",
+    "service-worker.js": "/tt/service-worker.js",
+    "static/css/main.ef086b1f.chunk.css.map": "/tt/static/css/main.ef086b1f.chunk.css.map",
+    "static/js/2.7d69b6c7.chunk.js.LICENSE.txt": "/tt/static/js/2.7d69b6c7.chunk.js.LICENSE.txt",
+    "static/media/Intro.scss": "/tt/static/media/banner-photo768@2x.6088de74.jpg",
+    "static/media/Modal.scss": "/tt/static/media/close_icon.61316c5c.svg",
+    "static/media/logo.svg": "/tt/static/media/logo.bce28fb7.svg",
+    "static/media/man-laptop-v1.svg": "/tt/static/media/man-laptop-v1.f28cb247.svg",
+    "static/media/menu icon.svg": "/tt/static/media/menu icon.63637e94.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.18c2270b.js",
+    "static/js/2.7d69b6c7.chunk.js",
+    "static/css/main.ef086b1f.chunk.css",
+    "static/js/main.1c4ab176.chunk.js"
+  ]
+}
