@@ -1,0 +1,14 @@
+export const GET_TOKEN = "GET_TOKEN";
+export const GET_POSITIONS = "GET_POSITIONS";
+export const GET_REQUEST_MESSAGE = "GET_REQUEST_MESSAGE";
+export const GET_REQUEST_SUCCESS = "GET_REQUEST_SUCCESS";
+
+export const SHOW_MODAL = "SHOW_MODAL";
+export const CLOSE_MODAL = "CLOSE_MODAL";
+export const SET_IS_SUCCESS_MODAL = "SET_IS_SUCCESS_MODAL";
+
+export const GET_USERS = "GET_USERS";
+export const GET_FIRST_USERS = "GET_FIRST_USERS";
+export const GET_NEXT_USERS = "GET_NEXT_USERS";
+
+export const TOGGLE_IS_FETCHING = "TOGGLE_IS_FETCHING";
